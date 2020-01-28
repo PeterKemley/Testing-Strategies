@@ -54,6 +54,4 @@ MissionControl.prototype.assignRole = function(application, next){
   }.bind(this));
 };
 
-
-
 module.exports = MissionControl;
